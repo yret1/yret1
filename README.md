@@ -2,12 +2,18 @@
 
 # ✨Welcome to my github profile✨
 
-🔭Check out some of my repos and projects🔭
 
-Keep reading to see what i'm currently working on!
+I'm happy that you wanted to stop by!
 
+**Who am i?** Well look at the banner!
+Jokes aside, Hi! I'm Simon, A frontend-developer based in Malmö, Sweden.
 
+I live in a small apartment with my partner and way too many plants.
+I have great plans for the future and cant wait to leave my mark on the products and websites of the future!
 
+Once again, Thank you for taking the time to visit!
+
+🔭Keep reading to see what i'm currently working on!🔭
 
 
 ## 🌱noNonsenseFinance - Fullstack - Current main project🌱
