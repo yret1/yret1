@@ -1,8 +1,8 @@
 <img src="./Heropng.png" style="width: 100%">
 
-# Welcome to my github profile
+# ✨Welcome to my github profile✨
 
-Check out some of my repos and projects.
+🔭Check out some of my repos and projects🔭
 
 Keep reading to see what i'm currently working on!
 
@@ -10,7 +10,7 @@ Keep reading to see what i'm currently working on!
 
 
 
-## noNonsenseFinance - Fullstack - Current main project
+## 🌱noNonsenseFinance - Fullstack - Current main project🌱
 
 <img src="./NN1.png">
 
@@ -20,6 +20,21 @@ With noNonsense im trying to create a new modern way of budgeting. Utilizing a c
 
 you can check out the app so far by clicking [here!](https://nononsensefinance.netlify.app/)
 
+
+
+## 😄My Portfolio Page😄
+
+<img src="./PortfolioPage.png">
+
+### My growing stack
+
+On my portfolio webpage you can check out my current techstack, some of my recent projects and current ideas.
+
+I have also added the ability to send me emails trough a nice looking form.
+
+Check it out [here](https://www.yret1.se/)
+
+**Dont hesitate to get in touch!💬**
 <!--
 **yret1/yret1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
