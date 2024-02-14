@@ -1,9 +1,10 @@
 
 <!-- Light Mode -->
-<img src="./Lighthero.png" alt="Light Hero Image" style="width: 100%" />
-
-<!-- Dark Mode -->
+{% if darkmode %}
 <img src="./Darkhero.png" alt="Dark Hero Image" style="width: 100%" />
+{% else %}
+<img src="./Lighthero.png" alt="Light Hero Image" style="width: 100%" />
+{% endif %}
 
 <!--
 **yret1/yret1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
