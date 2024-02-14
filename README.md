@@ -18,7 +18,7 @@ Once again, Thank you for taking the time to visit!
 
 🔭Keep reading to see what i'm currently working on!🔭
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/simon-gustavsson-94b50090)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/simon-gustavsson-94b50090/)
 &nbsp;
 
 
