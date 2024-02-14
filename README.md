@@ -1,5 +1,9 @@
 
-<img src="./Darkhero(1).png" style="width: 100%" />
+<!-- Light Mode -->
+<img src="./Lighthero.png" alt="Light Hero Image" style="width: 100%" />
+
+<!-- Dark Mode -->
+<img src="./Darkhero.png" alt="Dark Hero Image" style="width: 100%" />
 
 <!--
 **yret1/yret1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
