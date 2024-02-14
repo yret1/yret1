@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Hero Image](./Darkhero.png)
 
 <!--
 **yret1/yret1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
