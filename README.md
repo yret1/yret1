@@ -50,7 +50,7 @@ you can check out the app so far by clicking [here!](https://spacestudios.netlif
 
 ## 😄My Portfolio Page😄
 
-<img src="./PortfolioPage.png">
+<img src="./Portfolio.png">
 
 ### My growing stack
 
