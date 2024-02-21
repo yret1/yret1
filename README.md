@@ -38,7 +38,7 @@ you can check out the app so far by clicking [here!](https://nononsensefinance.n
 
 ## 🤔Space Studios - Frontend - Mockup🤔
 
-<img src="./Design-Frame.png">
+<img src="./DesignFrame.png">
 
 ### A Photography Studio For you!
 
