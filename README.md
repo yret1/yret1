@@ -25,7 +25,7 @@ Once again, Thank you for taking the time to visit!
 
 ## 🌱noNonsenseFinance - Fullstack - Current main project🌱
 
-<img src="./NN1.png">
+<img src="./Nononses.png">
 
 ### A budgeting platform of the future!
 
