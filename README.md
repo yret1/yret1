@@ -35,6 +35,19 @@ you can check out the app so far by clicking [here!](https://nononsensefinance.n
 
 
 
+
+## 🤔Space Studios - Frontend - Mockup🤔
+
+<img src="./Design-Frame.png">
+
+### A Photography Studio For you!
+
+Space Studios is my first project built with TailwindCSS. The idea behind it was a simple modern design for a photo studio. After finally desiding to switch to Tailwind i am very happy with the results and will continue to use it in the future!
+
+you can check out the app so far by clicking [here!](https://spacestudios.netlify.app//)
+
+
+
 ## 😄My Portfolio Page😄
 
 <img src="./PortfolioPage.png">
