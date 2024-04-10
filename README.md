@@ -36,15 +36,15 @@ you can check out the app so far by clicking [here!](https://nononsensefinance.n
 
 
 
-## 🤔Space Studios - Frontend - Mockup🤔
+## Soundboom - Fullstack - E-commerce
 
-<img src="./DesignFrame.png">
+<img src="./Soundboom.png">
 
-### A Photography Studio For you!
+### Find Your New Sound!
 
-Space Studios is my first project built with TailwindCSS. The idea behind it was a simple modern design for a photo studio. After finally desiding to switch to Tailwind i am very happy with the results and will continue to use it in the future!
+Soundboom is a custom e-commerce project with advanced statehandling and a responsive design. Soundboom has everything from headphones to speakers on a clean and inviting page!
 
-you can check out the app so far by clicking [here!](https://spacestudios.netlify.app//)
+you can check out the app so far by clicking [here!](https://soundboom-pi.vercel.app/product)
 
 
 
