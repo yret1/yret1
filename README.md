@@ -48,7 +48,7 @@ you can check out the app so far by clicking [here!](https://soundboom-pi.vercel
 
 
 
-## 😄My Portfolio Page😄
+## Digital Portfolio 2024
 
 <img src="./Portfolio.png">
 
@@ -57,6 +57,8 @@ you can check out the app so far by clicking [here!](https://soundboom-pi.vercel
 On my portfolio webpage you can check out my current techstack, some of my recent projects and current ideas.
 
 I have also added the ability to send me emails trough a nice looking form.
+
+I try to keep the portfolio updated and every so often i redesign it.
 
 Check it out [here](https://www.yret1.se/)
 
