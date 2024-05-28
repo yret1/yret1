@@ -2,12 +2,7 @@
 
 # ✨Welcome to my github profile✨
 
-
-I'm happy that you wanted to stop by!
-
-**Who am i?** Well look at the banner! </br>
-
-Jokes aside...
+Thanks for stopping by! If you see anything you like, let me know!
 
 ## Hi! I'm Simon, A Frontend-developer based in Malmö, Sweden.
 
