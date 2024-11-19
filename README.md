@@ -4,29 +4,29 @@
 
 Thanks for stopping by! If you see anything you like, let me know!
 
-## Hi! I'm Simon, A Fullstack-developer based in Malmö, Sweden.
+## A Fullstack-developer based in Malmö, Sweden.
 
 I live in a small apartment with my partner and way too many plants.
 I have great plans for the future and cant wait to leave my mark on the products and websites of the future!
 
 Once again, Thank you for taking the time to visit!
 
-🔭Keep reading to see what i'm currently working on!🔭
+🔭Head over to my page to see what i am working on🔭
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/simon-gustavsson-94b50090/)
-&nbsp;
-
+### Go to the [portfoliopage](https://www.gustavssondev.com/)
 
 
-## 🌱noNonsenseFinance - Fullstack - Current main project🌱
+
+
+## 🌱No Nonsense Budget - Fullstack - A simple to use finance app🌱
 
 <img src="./Nononses.png">
 
-### A budgeting platform of the future!
+### The smooth budgeting platform!
 
-With noNonsense im trying to create a new modern way of budgeting. Utilizing a clean minimalistic design and smooth colors. I hope that this project will find its way into hearts of many users!
+A simple and minimalistic budgeting app. A free to use system i developed over the summer. 
 
-you can check out the app so far by clicking [here!](https://nononsensefinance.netlify.app/)
+Visit the application [here!](https://www.nononsensebudget.com/)
 
 
 
@@ -58,17 +58,3 @@ I try to keep the portfolio updated and every so often i redesign it.
 Check it out [here](https://www.yret1.se/)
 
 **Dont hesitate to get in touch!💬**
-<!--
-**yret1/yret1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
