@@ -5,7 +5,7 @@
 
 *Building things nobody asked for — one unnecessary project at a time.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio2026--xi.vercel.app-slate?style=flat-square&logo=vercel)](https://portfolio2026-xi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio2026--xi.vercel.app-slate?style=flat-square&logo=vercel)](https://gustavssondev.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-simon--gustavsson-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/simon-gustavsson-94b50090/)
 [![GitHub](https://img.shields.io/badge/GitHub-yret1-181717?style=flat-square&logo=github)](https://github.com/yret1)
 
@@ -67,14 +67,14 @@ The page you probably just came from. Every year I rebuild my portfolio from scr
 | Period | Role |
 |---|---|
 | 2025 – present | Junior Software Developer, **Funbutler AB** |
-| 2023 – present | Founder, **Gustavsson Development** |
+| 2023 – 2025 | Founder, **Gustavsson Development** |
 | 2020 – 2025 | Emergency Technician, **Region Skåne** |
 
 ---
 
 ## Get in Touch
 
-The best way to reach me is through the [contact form on my portfolio](https://portfolio2026-xi.vercel.app/) or via [LinkedIn](https://linkedin.com/in/simon-gustavsson-94b50090/). I'm available for freelance work and always open to interesting conversations.
+The best way to reach me is through the [contact form on my portfolio](https://gustavssondev.com/) or via [LinkedIn](https://linkedin.com/in/simon-gustavsson-94b50090/). I'm available for freelance work and always open to interesting conversations.
 
 <div align="center">
   <sub>Available for work · Usually responds within 24h</sub>
