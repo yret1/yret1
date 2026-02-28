@@ -1,60 +1,81 @@
-<img src="./Heropng.png" style="width: 100%">
+<div align="center">
 
-# ✨Welcome to my github profile✨
+# Simon Gustavsson
+### Software Developer · Malmö, Sweden
 
-Thanks for stopping by! If you see anything you like, let me know!
+*Building things nobody asked for — one unnecessary project at a time.*
 
-## A Fullstack-developer based in Malmö, Sweden.
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio2026--xi.vercel.app-slate?style=flat-square&logo=vercel)](https://portfolio2026-xi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-simon--gustavsson-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/simon-gustavsson-94b50090/)
+[![GitHub](https://img.shields.io/badge/GitHub-yret1-181717?style=flat-square&logo=github)](https://github.com/yret1)
 
-I live in a small apartment with my partner and way too many plants.
-I have great plans for the future and cant wait to leave my mark on the products and websites of the future!
+</div>
 
-Once again, Thank you for taking the time to visit!
+---
 
-🔭Head over to my page to see what i am working on🔭
+## About
 
-### Go to the [portfoliopage](https://www.gustavssondev.com/)
+Junior Software Developer at **Funbutler AB** in Lund, where I work on payment integrations, onboarding flows, and product features. Outside of work I run **Gustavsson Development** — a freelance practice building end-to-end web solutions for clients.
 
+I came from five years as an emergency technician at Region Skåne, which means I'm used to high-pressure environments and debugging things that really shouldn't be broken. I've carried that same mentality into software.
 
+Currently exploring medical technology on the side.
 
+---
 
-## 🌱No Nonsense Budget - Fullstack - A simple to use finance app🌱
+## Tech Stack
 
-<img src="./Nononses.png">
+**Frontend**
+`Angular` `React` `Next.js` `TypeScript` `Tailwind CSS` `GSAP` `Framer Motion`
 
-### The smooth budgeting platform!
+**Backend**
+`Node.js` `MongoDB` `Mongoose` `Python` `PostgreSQL` `JWT` `GraphQL`
 
-A simple and minimalistic budgeting app. A free to use system i developed over the summer. 
+**DevOps & Tools**
+`Docker` `AWS` `CI/CD` `Figma` `Clerk` `Shopify`
 
-Visit the application [here!](https://www.nononsensebudget.com/)
+---
 
+## Featured Projects
 
+### [No Nonsense Budget](https://nnnextbudget-4mp7uvm5x-yret1s-projects.vercel.app)
+A budgeting SaaS built to replace the spreadsheet habit. Reached 40 active users at peak.  
+`Next.js` `React` `MongoDB` `Clerk` `TypeScript` `Tailwind`
 
+---
 
-## Soundboom - Fullstack - E-commerce
+### [EU Kompassen](https://accentvalkompass.vercel.app/)
+Interactive voting compass built for the EU Election 2024. Integrated into Accent Magasin and used by **20,000+ people** during the election period.  
+`React` `Vite` `TypeScript` `Tailwind` `Framer Motion`
 
-<img src="./Soundboom.png">
+---
 
-### Find Your New Sound!
+### [More or Less](https://www.moreless-football.com/)
+Football higher/lower guessing game with a custom Python scraping bot (~98% data accuracy). Attracts **1,000–4,000 monthly users**.  
+`Next.js` `React` `Python` `MongoDB` `TypeScript`
 
-Soundboom is a custom e-commerce project with advanced statehandling and a responsive design. Soundboom has everything from headphones to speakers on a clean and inviting page!
+---
 
-you can check out the app so far by clicking [here!](https://soundboom-pi.vercel.app/product)
+### [Portfolio v3 (2026)](https://portfolio2026-xi.vercel.app/)
+The page you probably just came from. Every year I rebuild my portfolio from scratch — new design, new architecture, new ideas.  
+`Angular` `TypeScript` `Tailwind` `GSAP` `MongoDB`
 
+---
 
+## Experience
 
-## Digital Portfolio 2024
+| Period | Role |
+|---|---|
+| 2025 – present | Junior Software Developer, **Funbutler AB** |
+| 2023 – present | Founder, **Gustavsson Development** |
+| 2020 – 2025 | Emergency Technician, **Region Skåne** |
 
-<img src="./Portfolio.png">
+---
 
-### My growing stack
+## Get in Touch
 
-On my portfolio webpage you can check out my current techstack, some of my recent projects and current ideas.
+The best way to reach me is through the [contact form on my portfolio](https://portfolio2026-xi.vercel.app/) or via [LinkedIn](https://linkedin.com/in/simon-gustavsson-94b50090/). I'm available for freelance work and always open to interesting conversations.
 
-I have also added the ability to send me emails trough a nice looking form.
-
-I try to keep the portfolio updated and every so often i redesign it.
-
-Check it out [here](https://www.yret1.se/)
-
-**Dont hesitate to get in touch!💬**
+<div align="center">
+  <sub>Available for work · Usually responds within 24h</sub>
+</div>
