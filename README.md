@@ -13,9 +13,7 @@
 
 ---
 
-## ⚡ Executive Summary
-
-I am a Full-Stack Engineer at **Funbutler AB** in Lund, where I own critical backend payment integrations, user onboarding architecture, and scalable product features. Beyond corporate development, I operate **Gustavsson Development**—a freelance engineering practice building end-to-end commercial web solutions—and scale software assets within the developer ecosystem.
+I am a Full-Stack Engineer at **Funbutler AB** in Lund, where I work on backend payment integrations, user onboarding architecture, and scalable product features. Beyond corporate development, I operate **Gustavsson Development**—a freelance engineering practice building end-to-end commercial web solutions—and scale software assets within the developer ecosystem.
 
 **The Diagnostic Mindset:** Before transitioning into software engineering, I spent five years as an **Emergency Medical Technician at Region Skåne**. Operating in emergency medicine taught me how to triage complex, high-pressure situations, make deterministic choices under stress, and systematically debug mission-critical systems when failure is not an option. I bring that exact analytical, calm, and clinical approach to system architecture.
 
