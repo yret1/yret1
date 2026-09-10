@@ -96,4 +96,4 @@ I post build logs and project breakdowns on YouTube at **[@thisprobablyworks](ht
 
 Open to consulting, contract work, and conversations about payments infrastructure, SDK design, or anything at the intersection of software and healthcare.
 
-**[gustavssondev.com](https://gustavssondev.com)** · **[simgus1234@gmail.com](mailto:simgus1234@gmail.com)**
+**[gustavssondev.com](https://gustavssondev.com)** · **[gustavssondev@gmail.com](mailto:simgus1234@gmail.com)**
