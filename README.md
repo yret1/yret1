@@ -1,86 +1,99 @@
 <div align="center">
 
 # Simon Gustavsson
-### Full-Stack Engineer & SaaS Architect · Malmö, Sweden
 
-*Architecting multi-tenant platforms, framework-agnostic tooling, and robust distributed systems.*
+**Product Engineer @ Funbutler · Malmö, Sweden**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gustavssondev.com-slate?style=flat-square&logo=vercel)](https://gustavssondev.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-simon--gustavsson-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/simon-gustavsson-94b50090/)
-[![GitHub](https://img.shields.io/badge/GitHub-yret1-181717?style=flat-square&logo=github)](https://github.com/yret1)
+Payments, integrations, and the occasional side project nobody asked for.
+
+[Portfolio](https://gustavssondev.com) · [Freelance](https://tjanster.gustavssondev.com) · [LinkedIn](https://linkedin.com/in/simon-gustavsson-94b50090) · [YouTube](https://www.youtube.com/@thisprobablyworks)
 
 </div>
 
 ---
 
-I am a Full-Stack Engineer at **Funbutler AB** in Lund, where I work on backend payment integrations, user onboarding architecture, and scalable product features. Beyond corporate development, I operate **Gustavsson Development**—a freelance engineering practice building end-to-end commercial web solutions—and scale software assets within the developer ecosystem.
+I build software that gets used. Day to day that means payment infrastructure and product work at **[Funbutler](https://funbutler.se)** in Lund — a booking platform for activity venues across Europe. Outside of that I run **Gustavsson Development**, ship side projects, and maintain **[Maillune](https://maillune.com)**, an email-builder SDK that turned into an actual company.
 
-**The Diagnostic Mindset:** Before transitioning into software engineering, I spent five years as an **Emergency Medical Technician at Region Skåne**. Operating in emergency medicine taught me how to triage complex, high-pressure situations, make deterministic choices under stress, and systematically debug mission-critical systems when failure is not an option. I bring that exact analytical, calm, and clinical approach to system architecture.
-
----
-
-## 🛠️ Technical Ecosystem
-
-### **Core Languages & Frameworks**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### **Databases, Tooling & Infrastructure**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+Before software I spent five years in emergency care at Region Skåne, most of it at Malmö's emergency department. It's a decent training ground for triage, staying calm when things break, and figuring out what's actually wrong instead of what looks wrong.
 
 ---
 
-## 🚀 Scaled Production Applications
+## What I'm working on
 
-### ✉️ [Maillune](https://maillune.com) — *Multi-Tenant SaaS & Developer SDK* (2026)
-A production-grade multi-tenant platform and framework-agnostic SDK designed to let engineering teams embed an isolated, drag-and-drop email builder directly into their software.
-* **Core Engineering:** Authored a standalone Web Component leveraging the Shadow DOM for zero-config, collision-free CSS embedding inside host applications.
-* **Systems Architecture:** Designed the complete multi-tenant infrastructure, featuring secure JWT authentication patterns, OAuth flows, and granular API key auto-provisioning.
-* **Technologies:** `TypeScript` `Angular` `Node.js` `Express` `MongoDB` `Vite` `Web Components`
+**Adyen payment integration** — Architected and maintain Funbutler's full Adyen PSP integration: payment flows, merchant onboarding, and configuration. It now handles the majority of customer payments. I led the migration off the legacy provider and was the primary technical contact for venue onboarding and live cutover.
 
-### 🗳️ [EU Kompassen](https://accentvalkompass.vercel.app/) — *High-Traffic Election Engine* (2024)
-An interactive voter alignment application commissioned for the EU Election 2024 and integrated as a core feature on the *Accent Magasin* platform.
-* **Scale & Performance:** Successfully served **20,000+ active users** under strict, unyielding media launch deadlines.
-* **Algorithmic Complexity:** Created customizable, deterministic party-matching calculation logic operating on fluid, low-latency visual states.
-* **Technologies:** `TypeScript` `React` `Vite` `Tailwind CSS` `Framer Motion`
+**AI support assistant** — Built an in-house alternative to Intercom using n8n workflows to triage first-line technical support. Cut ticketing tool costs by roughly 80%.
 
-### ⚽ [More or Less](https://www.moreless-football.com/) — *Data Analytics Gaming Platform* (2023)
-A sports data trivia platform tracking and serving real-time European football metrics.
-* **User Engagement:** Attracts between **1,000–4,000 monthly active users** globally.
-* **Data Pipelines:** Architected automated Python scraping bots running background synchronization routines at ~98% data accuracy.
-* **Technologies:** `TypeScript` `Next.js` `React` `Python` `MongoDB`
+**Funbutler Staff App** — Migrated the staff companion app from Cordova/Ionic to Angular 21 + Capacitor 8, then expanded it: booking search, guest check-in, pricing, and sending payments straight to the register from the floor.
 
-### 💳 [NNBudget](https://nnnextbudget.vercel.app/) — *Financial SaaS* (2025)
-A secure financial tracking platform built to transition users off heavy, unstructured spreadsheet workflows.
-* **Implementation:** Built using a multi-layer document architecture on MongoDB, structured entirely on strict TypeScript typings, and secured with Clerk webhooks.
-* **Technologies:** `TypeScript` `Next.js` `React` `MongoDB` `Clerk` `Tailwind CSS`
+**Platform UI/UX** — Led an overhaul focused on the highest-friction user flows, aimed squarely at reducing inbound support volume. I own end-to-end support operations, so recurring pain points go straight into the roadmap.
 
 ---
 
-## 🎨 Commercial Client Engineering & Sandboxing
+## Projects
 
-*   🌐 **[GustavssonDev v3](https://gustavssondev.com) (2026):** A component-driven, system-focused portfolio engine utilizing atomic UI design patterns, reactive state routing, and performance-tuned GSAP micro-interactions. `Angular` `TypeScript` `Tailwind` `MongoDB`
-*   🏢 **[Nordisk Standard](https://nordiskstandard.no/) (2024):** A highly performant commercial B2B platform engineered for the Norwegian market with a clean Scandinavian aesthetic, deep SEO optimization, and exceptional Core Web Vitals scoring. `React` `Vite` `TypeScript` `Tailwind CSS`
-*   📸 **[Jakob Kerren Portfolio](https://www.jakob-kerren.com/) (2024):** An image-heavy, highly interactive media showcase built for an international photographer, featuring custom asset caching and layout shift minimization. `React` `Vite` `Tailwind CSS`
+### [Maillune](https://maillune.com) — multi-tenant SaaS & SDK · 2026
+A drag-and-drop email builder developers can embed directly into their own products.
+- Framework-agnostic Web Component (`<email-builder>`) using Shadow DOM, so it drops into React, Vue, Angular, or plain HTML without CSS collisions.
+- Multi-tenant dashboard with JWT/OAuth auth, API key auto-provisioning, template management, and tiered subscription logic.
+- Designed the brand and a dark-mode design system shared between the dashboard and the embedded SDK.
+
+`TypeScript` `Angular` `Node.js` `Express` `MongoDB` `Vite` `Web Components`
+
+### [EU Kompassen](https://accentvalkompass.vercel.app/) — voting compass · 2024
+An interactive voter-alignment tool built for the 2024 EU election and shipped as a feature on *Accent Magasin*.
+- Reached **20,000+ users** on a hard media deadline.
+- Deterministic party-matching logic running against fluid, low-latency UI states.
+
+`TypeScript` `React` `Vite` `Tailwind` `Framer Motion`
+
+### [More or Less](https://www.moreless-football.com/) — football trivia · 2023
+A Higher-or-Lower spin-off built on real European football data.
+- **1,000–4,000 monthly active users.**
+- Python scraping bots running background sync routines at ~98% data accuracy.
+
+`TypeScript` `Next.js` `React` `Python` `MongoDB`
+
+### [NNBudget](https://nnnextbudget.vercel.app/) — budgeting app · 2025
+Built because tracking a budget across five spreadsheets is miserable. Multi-layer document model on MongoDB, strict typing throughout, auth via Clerk webhooks. Peaked at 40 active users and is still my own daily driver.
+
+`TypeScript` `Next.js` `React` `MongoDB` `Clerk` `Tailwind`
 
 ---
 
-## 📈 Professional Experience
+## Client work
 
-| Timeline | Position | Focus |
+- **[Ren Apparel](https://gustavssondev.com/projects)** (2026) — Custom Shopify storefront for an athletic apparel brand, designed and built end to end from theme to checkout. `Shopify` `Figma` `CSS`
+- **[gustavssondev.com](https://gustavssondev.com)** (2026) — This year's portfolio. Component-driven, atomic UI patterns, reactive routing, GSAP micro-interactions. A new one every year. `Angular` `TypeScript` `Tailwind` `MongoDB` `GSAP`
+- **[Nordisk Standard](https://nordiskstandard.no/)** (2024) — B2B platform for the Norwegian market. SEO-focused, clean Scandinavian design, strong Core Web Vitals. `React` `Vite` `TypeScript` `Tailwind`
+- **[Jakob Kerren](https://www.jakob-kerren.com/)** (2024) — Image-heavy portfolio for an international photographer, with custom asset caching and minimal layout shift. `React` `Vite` `Tailwind`
+
+---
+
+## Stack
+
+**Languages** TypeScript · JavaScript · Python · C# · SQL
+**Frontend** Angular · React · Next.js · Tailwind · GSAP · Framer Motion
+**Backend** Node.js · Express · MongoDB / Mongoose · PostgreSQL
+**Platform** Docker · AWS · Vercel · Linux · Capacitor · n8n · Clerk · Adyen · Shopify
+
+---
+
+## Experience
+
+| | | |
 | :--- | :--- | :--- |
-| **2025 – Present** | **Software Engineer** <br> @ Funbutler AB | Engineered fintech/payment gateway integrations, overhauled secure customer onboarding architecture, and led features for core products. |
-| **2023 – Present** | **Software Architect / Founder** <br> @ Gustavsson Development | Consulted and delivered secure, end-to-end commercial solutions, dynamic B2B sites, and scalable database models for various clients. |
-| **2020 – 2025** | **Emergency Medical Technician** <br> @ Region Skåne | Critical clinical diagnostics, emergency crisis management, high-stress split-second decision making, and agile crew coordination. |
+| **2025 – now** | **Funbutler** — Lund | Intern → Trainee → L1 Engineer → **L2 Product Engineer**. Payments, integrations, support automation, product features. |
+| **2024 – 2025** | **Gustavsson Development** — Malmö | Founder. Custom web solutions and e-commerce for Swedish and international clients. |
+| **2026 – now** | **Maillune** — Malmö | Founder. Email-builder SDK and multi-tenant SaaS platform. |
+| **2020 – 2025** | **Region Skåne** — Malmö | Assistant nurse (undersköterska), emergency department and acute care ward. |
 
 ---
 
-## 📬 Enterprise & Technical Inquiries
+## Elsewhere
 
-I am always interested in discussing multi-tenant SaaS patterns, framework-agnostic SDK design, complex pipeline optimizations, or medical technology concepts.
+I post build logs and project breakdowns on YouTube at **[@thisprobablyworks](https://www.youtube.com/@thisprobablyworks)**. Currently poking at medical technology, which feels like the two halves of my CV finally talking to each other.
 
-*   **Engineering Hub:** [gustavssondev.com](https://gustavssondev.com/)
-*   **LinkedIn Professional:** [linkedin.com/in/simon-gustavsson](https://linkedin.com/in/simon-gustavsson-94b50090/)
+Open to consulting, contract work, and conversations about payments infrastructure, SDK design, or anything at the intersection of software and healthcare.
 
-<div align="center">
-  <sub>Available for software consulting, contract engineering, and architecture design.</sub>
-</div>
+**[gustavssondev.com](https://gustavssondev.com)** · **[simgus1234@gmail.com](mailto:simgus1234@gmail.com)**
